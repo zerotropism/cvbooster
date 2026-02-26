@@ -1,0 +1,16 @@
+CV-002 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Data Scientist (Junior)
+Résumé: Conception, industrialisation et monitoring de modèles de ML en production.
+
+Expériences professionnelles
+- 2022–2025 | Data Scientist (Junior) | Énergie | Construction de pipelines data/feature et automatisation MLOps. Stack: SQL, MLflow.
+- 2021–2024 | Data Scientist (Junior) | Énergie | Construction de pipelines data/feature et automatisation MLOps. Stack: MLflow, Kubernetes.
+
+Diplômes
+- 2019 | Licence Informatique (Systèmes & Réseaux).
+
+Compétences techniques
+- Kubernetes
+- Hugging Face
+- Spark
+- SQL

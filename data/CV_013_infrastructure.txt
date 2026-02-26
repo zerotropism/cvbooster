@@ -1,0 +1,17 @@
+CV-013 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Administrateur Systèmes & Virtualisation (Senior)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2021–2024 | Administrateur Systèmes & Virtualisation (Senior) | Télécom | Exploitation et optimisation d’une plateforme virtualisée (cluster, HA, capacity). Stack: VMware vSphere, Backup (Veeam).
+- 2023–2026 | Administrateur Systèmes & Virtualisation (Senior) | Télécom | Gestion sauvegarde/restauration et plans PRA/PCA sur périmètre critique. Stack: Azure, Ansible, GitLab CI/CD.
+- 2024–2026 | Administrateur Systèmes & Virtualisation (Senior) | Télécom | Exploitation et optimisation d’une plateforme virtualisée (cluster, HA, capacity). Stack: ELK/Opensearch, Kubernetes, GitLab CI/CD.
+
+Diplômes
+- 2016 | Master Data Science / IA.
+- 2017 | Master Informatique (Cloud & DevOps).
+
+Compétences techniques
+- Storage (NetApp)
+- Hyper-V
+- Windows Server

@@ -1,0 +1,16 @@
+CV-004 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Site Reliability Engineer (SRE) (Senior)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2023–2026 | Site Reliability Engineer (SRE) (Senior) | Aéronautique | Durcissement et mise en conformité (patching, baseline CIS, revue comptes). Stack: Prometheus/Grafana, Terraform, VMware vSphere.
+- 2024–2026 | Site Reliability Engineer (SRE) (Senior) | Aéronautique | Industrialisation du provisioning (IaC) et standardisation des configurations. Stack: Hyper-V, Kubernetes.
+
+Diplômes
+- 2021 | Licence Mathématiques appliquées.
+
+Compétences techniques
+- VMware vSphere
+- ELK/Opensearch
+- Ansible
+- AWS

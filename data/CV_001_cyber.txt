@@ -1,0 +1,14 @@
+CV-001 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur IAM (Junior)
+Résumé: Sécurisation, audit et détection/réponse aux incidents sur environnements hybrides.
+
+Expériences professionnelles
+- 2024–2026 | Ingénieur IAM (Junior) | Énergie | Sécurisation cloud (guardrails, logging, segmentation, clés). Stack: Firewall (Palo Alto/Fortinet), PKI/TLS, Risk Assessment.
+
+Diplômes
+- 2021 | BUT Réseaux & Télécom.
+
+Compétences techniques
+- Kubernetes Security
+- Hardening (CIS)
+- EDR (Defender/CrowdStrike)

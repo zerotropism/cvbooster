@@ -1,0 +1,16 @@
+CV-044 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Administrateur Systèmes & Virtualisation (Senior)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2025–2026 | Administrateur Systèmes & Virtualisation (Senior) | Transport | Durcissement et mise en conformité (patching, baseline CIS, revue comptes). Stack: VMware vSphere, Bash.
+
+Diplômes
+- 2021 | Master Informatique (Cloud & DevOps).
+- 2022 | Diplôme d’ingénieur (Informatique).
+
+Compétences techniques
+- VMware vSphere
+- GitLab CI/CD
+- Backup (Veeam)
+- Bash

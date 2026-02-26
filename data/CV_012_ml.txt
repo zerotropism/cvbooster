@@ -1,0 +1,14 @@
+CV-012 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: MLOps Engineer (Junior)
+Résumé: Conception, industrialisation et monitoring de modèles de ML en production.
+
+Expériences professionnelles
+- 2024–2026 | MLOps Engineer (Junior) | Banque/Assurance | Conception et entraînement de modèles, optimisation et évaluation. Stack: OpenCV, Kubernetes.
+
+Diplômes
+- 2020 | BUT Réseaux & Télécom.
+
+Compétences techniques
+- MLflow
+- PyTorch
+- Feature Store

@@ -1,0 +1,17 @@
+CV-025 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur WAN & Routing (Junior)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2023–2025 | Ingénieur WAN & Routing (Junior) | Industrie | Mise en place VPN, segmentation et interconnexions sécurisées. Stack: VPN (IPSec), Routing (OSPF/BGP), Juniper.
+- 2023–2025 | Ingénieur WAN & Routing (Junior) | Industrie | Mise en place VPN, segmentation et interconnexions sécurisées. Stack: Automation (Python/Ansible), DNS/DHCP.
+- 2023–2025 | Ingénieur WAN & Routing (Junior) | Industrie | Conception/évolution d’architecture réseau (LAN/WAN) et documentation. Stack: SD-WAN, VPN (IPSec), NetBox.
+
+Diplômes
+- 2017 | Master Data Science / IA.
+
+Compétences techniques
+- VPN (IPSec)
+- Firewall
+- Routing (OSPF/BGP)
+- Automation (Python/Ansible)

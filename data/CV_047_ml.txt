@@ -1,0 +1,18 @@
+CV-047 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur NLP (Confirmé)
+Résumé: Conception, industrialisation et monitoring de modèles de ML en production.
+
+Expériences professionnelles
+- 2023–2025 | Ingénieur NLP (Confirmé) | Énergie | Mise en production (API) et monitoring de dérive/qualité des modèles. Stack: OpenCV, PyTorch, scikit-learn.
+- 2022–2025 | Ingénieur NLP (Confirmé) | Énergie | Construction de pipelines data/feature et automatisation MLOps. Stack: Feature Store, Python, ONNX.
+
+Diplômes
+- 2020 | Master Informatique (Cloud & DevOps).
+- 2021 | BUT Réseaux & Télécom.
+
+Compétences techniques
+- PyTorch
+- Hugging Face
+- Feature Store
+- SQL
+- Docker

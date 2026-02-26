@@ -1,0 +1,17 @@
+CV-019 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Security Engineer DevSecOps (Confirmé)
+Résumé: Sécurisation, audit et détection/réponse aux incidents sur environnements hybrides.
+
+Expériences professionnelles
+- 2023–2026 | Security Engineer DevSecOps (Confirmé) | Santé | Pilotage conformité (politiques, risques, ISO) et sensibilisation. Stack: EDR (Defender/CrowdStrike), Hardening (CIS).
+- 2021–2024 | Security Engineer DevSecOps (Confirmé) | Santé | Pilotage conformité (politiques, risques, ISO) et sensibilisation. Stack: EDR (Defender/CrowdStrike), Firewall (Palo Alto/Fortinet).
+- 2023–2025 | Security Engineer DevSecOps (Confirmé) | Santé | Pilotage conformité (politiques, risques, ISO) et sensibilisation. Stack: Firewall (Palo Alto/Fortinet), SAST/DAST, EDR (Defender/CrowdStrike).
+
+Diplômes
+- 2018 | Diplôme d’ingénieur (Informatique).
+- 2019 | Licence Informatique (Systèmes & Réseaux).
+
+Compétences techniques
+- Risk Assessment
+- Cloud Security (AWS/Azure)
+- SIEM (Splunk/Elastic)

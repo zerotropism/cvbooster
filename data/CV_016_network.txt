@@ -1,0 +1,14 @@
+CV-016 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur WAN & Routing (Confirmé)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2023–2024 | Ingénieur WAN & Routing (Confirmé) | Aéronautique | Exploitation N2/N3 : incidents, changements, capacity et optimisation. Stack: WLAN, DNS/DHCP.
+
+Diplômes
+- 2017 | Master Data Science / IA.
+
+Compétences techniques
+- SD-WAN
+- WLAN
+- Routing (OSPF/BGP)

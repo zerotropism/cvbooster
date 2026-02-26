@@ -1,0 +1,17 @@
+CV-030 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur WAN & Routing (Confirmé)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2022–2024 | Ingénieur WAN & Routing (Confirmé) | Industrie | Automatisation et inventaire (NetBox, templates) pour opérations réseau. Stack: VPN (IPSec), WLAN.
+- 2024–2026 | Ingénieur WAN & Routing (Confirmé) | Industrie | Exploitation N2/N3 : incidents, changements, capacity et optimisation. Stack: Cisco, NetBox, QoS.
+
+Diplômes
+- 2019 | Diplôme d’ingénieur (Informatique).
+- 2020 | Licence Mathématiques appliquées.
+
+Compétences techniques
+- VPN (IPSec)
+- NetBox
+- DNS/DHCP
+- SD-WAN

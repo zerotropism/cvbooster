@@ -1,0 +1,15 @@
+[project]
+name = "cvbooster"
+version = "0.1.0"
+description = "demo cv booster & matcher to JD"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "markdown>=3.10.2",
+    "ollama>=0.6.1",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.54.0",
+    "weasyprint>=68.1",
+]

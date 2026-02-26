@@ -1,0 +1,15 @@
+CV-026 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Consultant GRC (ISO 27001) (Senior)
+Résumé: Sécurisation, audit et détection/réponse aux incidents sur environnements hybrides.
+
+Expériences professionnelles
+- 2024–2025 | Consultant GRC (ISO 27001) (Senior) | Énergie | Sécurisation cloud (guardrails, logging, segmentation, clés). Stack: Cloud Security (AWS/Azure), Firewall (Palo Alto/Fortinet).
+- 2023–2026 | Consultant GRC (ISO 27001) (Senior) | Énergie | Analyse et qualification d’alertes, chasse aux menaces et playbooks. Stack: ISO 27001, Cloud Security (AWS/Azure).
+
+Diplômes
+- 2019 | Licence Mathématiques appliquées.
+
+Compétences techniques
+- SIEM (Splunk/Elastic)
+- Hardening (CIS)
+- Cloud Security (AWS/Azure)

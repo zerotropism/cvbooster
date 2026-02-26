@@ -1,0 +1,16 @@
+CV-033 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Consultant GRC (ISO 27001) (Junior)
+Résumé: Sécurisation, audit et détection/réponse aux incidents sur environnements hybrides.
+
+Expériences professionnelles
+- 2024–2025 | Consultant GRC (ISO 27001) (Junior) | Industrie | Sécurisation cloud (guardrails, logging, segmentation, clés). Stack: PKI/TLS, Zero Trust.
+- 2024–2026 | Consultant GRC (ISO 27001) (Junior) | Industrie | Pilotage conformité (politiques, risques, ISO) et sensibilisation. Stack: EDR (Defender/CrowdStrike), PKI/TLS, Hardening (CIS).
+
+Diplômes
+- 2017 | Master Informatique (Cloud & DevOps).
+
+Compétences techniques
+- SIEM (Splunk/Elastic)
+- Risk Assessment
+- SAST/DAST
+- IAM (Azure AD)

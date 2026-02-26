@@ -1,0 +1,18 @@
+CV-037 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur WAN & Routing (Junior)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2024–2025 | Ingénieur WAN & Routing (Junior) | E-commerce | Mise en place VPN, segmentation et interconnexions sécurisées. Stack: Wireshark, Cisco.
+- 2024–2025 | Ingénieur WAN & Routing (Junior) | E-commerce | Conception/évolution d’architecture réseau (LAN/WAN) et documentation. Stack: Cisco, SD-WAN.
+
+Diplômes
+- 2019 | Master Data Science / IA.
+- 2020 | BUT Réseaux & Télécom.
+
+Compétences techniques
+- SD-WAN
+- NetBox
+- VPN (IPSec)
+- Automation (Python/Ansible)
+- QoS

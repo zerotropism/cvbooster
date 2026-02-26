@@ -1,0 +1,18 @@
+CV-032 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Analyste SOC (Junior)
+Résumé: Sécurisation, audit et détection/réponse aux incidents sur environnements hybrides.
+
+Expériences professionnelles
+- 2025–2026 | Analyste SOC (Junior) | Énergie | Tests d’intrusion applicatifs/infrastructure et restitution. Stack: DevSecOps, Kubernetes Security, SIEM (Splunk/Elastic).
+- 2022–2024 | Analyste SOC (Junior) | Énergie | Réalisation d’audits de sécurité et remédiations (hardening, IAM). Stack: Risk Assessment, PKI/TLS, Hardening (CIS).
+- 2023–2026 | Analyste SOC (Junior) | Énergie | Pilotage conformité (politiques, risques, ISO) et sensibilisation. Stack: SAST/DAST, Zero Trust, Pentest (Burp/Nmap).
+
+Diplômes
+- 2018 | Master Cybersécurité.
+- 2019 | Diplôme d’ingénieur (Informatique).
+
+Compétences techniques
+- Risk Assessment
+- DevSecOps
+- Hardening (CIS)
+- Zero Trust

@@ -1,0 +1,14 @@
+CV-017 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur Stockage & Sauvegarde (Junior)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2022–2025 | Ingénieur Stockage & Sauvegarde (Junior) | Télécom | Durcissement et mise en conformité (patching, baseline CIS, revue comptes). Stack: Terraform, Docker.
+
+Diplômes
+- 2016 | Master Data Science / IA.
+
+Compétences techniques
+- GitLab CI/CD
+- Backup (Veeam)
+- ELK/Opensearch

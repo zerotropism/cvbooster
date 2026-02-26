@@ -1,0 +1,16 @@
+CV-020 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Site Reliability Engineer (SRE) (Confirmé)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2024–2026 | Site Reliability Engineer (SRE) (Confirmé) | Énergie | Gestion sauvegarde/restauration et plans PRA/PCA sur périmètre critique. Stack: Hyper-V, AWS, Azure.
+
+Diplômes
+- 2018 | Master Cybersécurité.
+- 2019 | Master Data Science / IA.
+
+Compétences techniques
+- AWS
+- Kubernetes
+- Hyper-V
+- Ansible

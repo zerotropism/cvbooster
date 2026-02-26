@@ -1,0 +1,17 @@
+CV-046 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur Vision par Ordinateur (Junior)
+Résumé: Conception, industrialisation et monitoring de modèles de ML en production.
+
+Expériences professionnelles
+- 2023–2026 | Ingénieur Vision par Ordinateur (Junior) | Télécom | Mise en production (API) et monitoring de dérive/qualité des modèles. Stack: MLflow, PyTorch.
+- 2024–2026 | Ingénieur Vision par Ordinateur (Junior) | Télécom | Optimisation de performance (batching, quantization, ONNX). Stack: OpenCV, Hugging Face.
+- 2025–2026 | Ingénieur Vision par Ordinateur (Junior) | Télécom | Mise en production (API) et monitoring de dérive/qualité des modèles. Stack: Kubernetes, Docker, Pandas/NumPy.
+
+Diplômes
+- 2019 | Licence Mathématiques appliquées.
+
+Compétences techniques
+- MLflow
+- PyTorch
+- Docker
+- OpenCV

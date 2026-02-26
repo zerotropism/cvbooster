@@ -1,0 +1,18 @@
+CV-011 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Security Engineer DevSecOps (Junior)
+Résumé: Sécurisation, audit et détection/réponse aux incidents sur environnements hybrides.
+
+Expériences professionnelles
+- 2022–2024 | Security Engineer DevSecOps (Junior) | Industrie | Tests d’intrusion applicatifs/infrastructure et restitution. Stack: PKI/TLS, Cloud Security (AWS/Azure), SIEM (Splunk/Elastic).
+- 2022–2024 | Security Engineer DevSecOps (Junior) | Industrie | Analyse et qualification d’alertes, chasse aux menaces et playbooks. Stack: Hardening (CIS), Kubernetes Security, DevSecOps.
+
+Diplômes
+- 2021 | Master Data Science / IA.
+- 2022 | Master Cybersécurité.
+
+Compétences techniques
+- ISO 27001
+- Risk Assessment
+- DevSecOps
+- IAM (Azure AD)
+- PKI/TLS

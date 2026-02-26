@@ -1,0 +1,18 @@
+CV-043 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur Middleware (Junior)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2023–2025 | Ingénieur Middleware (Junior) | Transport | Gestion sauvegarde/restauration et plans PRA/PCA sur périmètre critique. Stack: Storage (NetApp), GitLab CI/CD, Backup (Veeam).
+- 2021–2024 | Ingénieur Middleware (Junior) | Transport | Exploitation et optimisation d’une plateforme virtualisée (cluster, HA, capacity). Stack: Terraform, Backup (Veeam), Linux (RHEL/Debian).
+- 2022–2025 | Ingénieur Middleware (Junior) | Transport | Durcissement et mise en conformité (patching, baseline CIS, revue comptes). Stack: ELK/Opensearch, Kubernetes, Terraform.
+
+Diplômes
+- 2020 | Licence Informatique (Systèmes & Réseaux).
+
+Compétences techniques
+- GitLab CI/CD
+- Hyper-V
+- Backup (Veeam)
+- Storage (NetApp)
+- Terraform

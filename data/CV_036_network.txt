@@ -1,0 +1,17 @@
+CV-036 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Administrateur Réseaux (Senior)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2025–2026 | Administrateur Réseaux (Senior) | Télécom | Exploitation N2/N3 : incidents, changements, capacity et optimisation. Stack: Cisco, QoS.
+- 2023–2024 | Administrateur Réseaux (Senior) | Télécom | Conception/évolution d’architecture réseau (LAN/WAN) et documentation. Stack: Firewall, NetBox, DNS/DHCP.
+
+Diplômes
+- 2017 | Master Informatique (Cloud & DevOps).
+- 2018 | BUT Réseaux & Télécom.
+
+Compétences techniques
+- NetBox
+- SD-WAN
+- Firewall
+- Switching (VLAN/STP)

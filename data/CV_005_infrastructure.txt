@@ -1,0 +1,17 @@
+CV-005 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur Middleware (Senior)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2023–2026 | Ingénieur Middleware (Senior) | E-commerce | Industrialisation du provisioning (IaC) et standardisation des configurations. Stack: GitLab CI/CD, Hyper-V, Kubernetes.
+
+Diplômes
+- 2016 | Licence Informatique (Systèmes & Réseaux).
+- 2017 | Master Data Science / IA.
+
+Compétences techniques
+- Azure
+- Docker
+- Python
+- Windows Server
+- GitLab CI/CD

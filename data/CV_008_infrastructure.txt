@@ -1,0 +1,14 @@
+CV-008 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Site Reliability Engineer (SRE) (Junior)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2023–2026 | Site Reliability Engineer (SRE) (Junior) | Santé | Exploitation et optimisation d’une plateforme virtualisée (cluster, HA, capacity). Stack: Linux (RHEL/Debian), VMware vSphere.
+
+Diplômes
+- 2016 | Licence Informatique (Systèmes & Réseaux).
+
+Compétences techniques
+- GitLab CI/CD
+- VMware vSphere
+- Azure

@@ -1,0 +1,17 @@
+CV-018 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur Data/ML Plateforme (Senior)
+Résumé: Conception, industrialisation et monitoring de modèles de ML en production.
+
+Expériences professionnelles
+- 2021–2024 | Ingénieur Data/ML Plateforme (Senior) | Télécom | Conception et entraînement de modèles, optimisation et évaluation. Stack: PyTorch, ONNX, Docker.
+- 2023–2024 | Ingénieur Data/ML Plateforme (Senior) | Télécom | Expérimentation et A/B tests, interprétabilité et reporting. Stack: Feature Store, ONNX, FastAPI.
+
+Diplômes
+- 2016 | Licence Informatique (Systèmes & Réseaux).
+
+Compétences techniques
+- Airflow
+- OpenCV
+- MLflow
+- Pandas/NumPy
+- PyTorch

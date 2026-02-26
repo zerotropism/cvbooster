@@ -1,0 +1,16 @@
+CV-034 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Architecte Réseau (Junior)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2025–2026 | Architecte Réseau (Junior) | Banque/Assurance | Automatisation et inventaire (NetBox, templates) pour opérations réseau. Stack: Routing (OSPF/BGP), DNS/DHCP.
+- 2023–2025 | Architecte Réseau (Junior) | Banque/Assurance | Automatisation et inventaire (NetBox, templates) pour opérations réseau. Stack: WLAN, Cisco, Routing (OSPF/BGP).
+
+Diplômes
+- 2016 | Licence Mathématiques appliquées.
+- 2017 | Master Data Science / IA.
+
+Compétences techniques
+- VPN (IPSec)
+- Firewall
+- Switching (VLAN/STP)

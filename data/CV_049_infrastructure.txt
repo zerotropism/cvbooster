@@ -1,0 +1,16 @@
+CV-049 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur Cloud Infrastructure (Senior)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2022–2024 | Ingénieur Cloud Infrastructure (Senior) | Santé | Durcissement et mise en conformité (patching, baseline CIS, revue comptes). Stack: GitLab CI/CD, Hyper-V, Terraform.
+- 2023–2024 | Ingénieur Cloud Infrastructure (Senior) | Santé | Exploitation et optimisation d’une plateforme virtualisée (cluster, HA, capacity). Stack: Prometheus/Grafana, VMware vSphere, ELK/Opensearch.
+
+Diplômes
+- 2020 | BUT Réseaux & Télécom.
+- 2021 | Master Informatique (Cloud & DevOps).
+
+Compétences techniques
+- Storage (NetApp)
+- Prometheus/Grafana
+- GitLab CI/CD

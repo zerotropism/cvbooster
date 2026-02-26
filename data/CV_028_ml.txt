@@ -1,0 +1,17 @@
+CV-028 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Data Scientist (Junior)
+Résumé: Conception, industrialisation et monitoring de modèles de ML en production.
+
+Expériences professionnelles
+- 2023–2024 | Data Scientist (Junior) | Retail | Expérimentation et A/B tests, interprétabilité et reporting. Stack: Airflow, Docker.
+- 2024–2026 | Data Scientist (Junior) | Retail | Construction de pipelines data/feature et automatisation MLOps. Stack: scikit-learn, FastAPI.
+
+Diplômes
+- 2016 | Master Informatique (Cloud & DevOps).
+
+Compétences techniques
+- Python
+- Hugging Face
+- Pandas/NumPy
+- Feature Store
+- Spark

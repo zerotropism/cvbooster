@@ -1,0 +1,17 @@
+CV-021 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur WAN & Routing (Confirmé)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2022–2025 | Ingénieur WAN & Routing (Confirmé) | Secteur public | Conception/évolution d’architecture réseau (LAN/WAN) et documentation. Stack: SD-WAN, Juniper, VPN (IPSec).
+- 2023–2026 | Ingénieur WAN & Routing (Confirmé) | Secteur public | Déploiement SD-WAN/WLAN et amélioration de la qualité de service. Stack: Firewall, Automation (Python/Ansible), Wireshark.
+
+Diplômes
+- 2019 | Diplôme d’ingénieur (Informatique).
+
+Compétences techniques
+- Cisco
+- Wireshark
+- Switching (VLAN/STP)
+- SD-WAN
+- QoS

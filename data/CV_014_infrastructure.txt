@@ -1,0 +1,15 @@
+CV-014 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Site Reliability Engineer (SRE) (Senior)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2024–2025 | Site Reliability Engineer (SRE) (Senior) | E-commerce | Exploitation et optimisation d’une plateforme virtualisée (cluster, HA, capacity). Stack: AWS, Docker, Terraform.
+- 2023–2026 | Site Reliability Engineer (SRE) (Senior) | E-commerce | Mise en place de supervision & alerting (SLO, dashboards, astreinte). Stack: AWS, Hyper-V.
+
+Diplômes
+- 2016 | Master Informatique (Cloud & DevOps).
+
+Compétences techniques
+- Kubernetes
+- Azure
+- Python

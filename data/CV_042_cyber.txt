@@ -1,0 +1,17 @@
+CV-042 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Analyste SOC (Senior)
+Résumé: Sécurisation, audit et détection/réponse aux incidents sur environnements hybrides.
+
+Expériences professionnelles
+- 2024–2026 | Analyste SOC (Senior) | Secteur public | Sécurisation cloud (guardrails, logging, segmentation, clés). Stack: Cloud Security (AWS/Azure), DevSecOps, Kubernetes Security.
+- 2022–2024 | Analyste SOC (Senior) | Secteur public | Sécurisation cloud (guardrails, logging, segmentation, clés). Stack: Cloud Security (AWS/Azure), PKI/TLS.
+- 2023–2026 | Analyste SOC (Senior) | Secteur public | Réalisation d’audits de sécurité et remédiations (hardening, IAM). Stack: Hardening (CIS), Kubernetes Security.
+
+Diplômes
+- 2018 | Master Informatique (Cloud & DevOps).
+- 2019 | Diplôme d’ingénieur (Informatique).
+
+Compétences techniques
+- Hardening (CIS)
+- Risk Assessment
+- Zero Trust

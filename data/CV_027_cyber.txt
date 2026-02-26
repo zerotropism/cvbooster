@@ -1,0 +1,15 @@
+CV-027 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Consultant GRC (ISO 27001) (Junior)
+Résumé: Sécurisation, audit et détection/réponse aux incidents sur environnements hybrides.
+
+Expériences professionnelles
+- 2023–2025 | Consultant GRC (ISO 27001) (Junior) | Transport | Pilotage conformité (politiques, risques, ISO) et sensibilisation. Stack: Hardening (CIS), EDR (Defender/CrowdStrike), DevSecOps.
+- 2021–2024 | Consultant GRC (ISO 27001) (Junior) | Transport | Sécurisation cloud (guardrails, logging, segmentation, clés). Stack: Pentest (Burp/Nmap), PKI/TLS.
+
+Diplômes
+- 2021 | Licence Mathématiques appliquées.
+
+Compétences techniques
+- Kubernetes Security
+- SIEM (Splunk/Elastic)
+- PKI/TLS

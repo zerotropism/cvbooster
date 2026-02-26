@@ -1,0 +1,17 @@
+CV-031 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Architecte Réseau (Junior)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2024–2025 | Architecte Réseau (Junior) | Industrie | Automatisation et inventaire (NetBox, templates) pour opérations réseau. Stack: WLAN, Routing (OSPF/BGP), Firewall.
+- 2024–2025 | Architecte Réseau (Junior) | Industrie | Automatisation et inventaire (NetBox, templates) pour opérations réseau. Stack: WLAN, SD-WAN.
+
+Diplômes
+- 2021 | Master Informatique (Cloud & DevOps).
+- 2022 | Diplôme d’ingénieur (Informatique).
+
+Compétences techniques
+- QoS
+- Routing (OSPF/BGP)
+- Automation (Python/Ansible)
+- Juniper

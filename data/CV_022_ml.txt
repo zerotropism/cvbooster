@@ -1,0 +1,16 @@
+CV-022 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur Data/ML Plateforme (Senior)
+Résumé: Conception, industrialisation et monitoring de modèles de ML en production.
+
+Expériences professionnelles
+- 2023–2024 | Ingénieur Data/ML Plateforme (Senior) | Retail | Construction de pipelines data/feature et automatisation MLOps. Stack: Airflow, TensorFlow.
+- 2023–2024 | Ingénieur Data/ML Plateforme (Senior) | Retail | Mise en production (API) et monitoring de dérive/qualité des modèles. Stack: TensorFlow, Docker, Airflow.
+
+Diplômes
+- 2021 | Master Cybersécurité.
+
+Compétences techniques
+- OpenCV
+- Airflow
+- scikit-learn
+- TensorFlow

@@ -1,0 +1,17 @@
+CV-007 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Security Engineer DevSecOps (Junior)
+Résumé: Sécurisation, audit et détection/réponse aux incidents sur environnements hybrides.
+
+Expériences professionnelles
+- 2021–2024 | Security Engineer DevSecOps (Junior) | Aéronautique | Tests d’intrusion applicatifs/infrastructure et restitution. Stack: Hardening (CIS), SAST/DAST.
+- 2024–2026 | Security Engineer DevSecOps (Junior) | Aéronautique | Réalisation d’audits de sécurité et remédiations (hardening, IAM). Stack: Risk Assessment, Hardening (CIS).
+
+Diplômes
+- 2018 | Master Cybersécurité.
+- 2019 | Licence Mathématiques appliquées.
+
+Compétences techniques
+- SAST/DAST
+- DevSecOps
+- EDR (Defender/CrowdStrike)
+- PKI/TLS

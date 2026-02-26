@@ -1,0 +1,15 @@
+CV-015 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur WLAN/SD-WAN (Junior)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2023–2026 | Ingénieur WLAN/SD-WAN (Junior) | Santé | Déploiement SD-WAN/WLAN et amélioration de la qualité de service. Stack: SD-WAN, Routing (OSPF/BGP), Switching (VLAN/STP).
+- 2024–2026 | Ingénieur WLAN/SD-WAN (Junior) | Santé | Déploiement SD-WAN/WLAN et amélioration de la qualité de service. Stack: Routing (OSPF/BGP), WLAN.
+
+Diplômes
+- 2018 | Master Cybersécurité.
+
+Compétences techniques
+- NetBox
+- Firewall
+- QoS

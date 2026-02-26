@@ -1,0 +1,16 @@
+CV-050 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur WAN & Routing (Senior)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2024–2026 | Ingénieur WAN & Routing (Senior) | E-commerce | Conception/évolution d’architecture réseau (LAN/WAN) et documentation. Stack: Firewall, Routing (OSPF/BGP).
+- 2023–2026 | Ingénieur WAN & Routing (Senior) | E-commerce | Déploiement SD-WAN/WLAN et amélioration de la qualité de service. Stack: Wireshark, Switching (VLAN/STP).
+- 2024–2026 | Ingénieur WAN & Routing (Senior) | E-commerce | Déploiement SD-WAN/WLAN et amélioration de la qualité de service. Stack: Switching (VLAN/STP), Cisco, Routing (OSPF/BGP).
+
+Diplômes
+- 2019 | Master Informatique (Cloud & DevOps).
+
+Compétences techniques
+- Switching (VLAN/STP)
+- Juniper
+- QoS

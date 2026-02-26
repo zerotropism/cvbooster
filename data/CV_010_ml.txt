@@ -1,0 +1,16 @@
+CV-010 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Machine Learning Engineer (Confirmé)
+Résumé: Conception, industrialisation et monitoring de modèles de ML en production.
+
+Expériences professionnelles
+- 2023–2024 | Machine Learning Engineer (Confirmé) | Santé | Mise en production (API) et monitoring de dérive/qualité des modèles. Stack: Pandas/NumPy, Airflow, TensorFlow.
+
+Diplômes
+- 2016 | Master Data Science / IA.
+- 2017 | Licence Informatique (Systèmes & Réseaux).
+
+Compétences techniques
+- scikit-learn
+- Python
+- Spark
+- Kubernetes

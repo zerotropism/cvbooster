@@ -1,0 +1,17 @@
+CV-024 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Architecte Réseau (Confirmé)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2024–2026 | Architecte Réseau (Confirmé) | Retail | Exploitation N2/N3 : incidents, changements, capacity et optimisation. Stack: Firewall, SD-WAN, Juniper.
+- 2024–2026 | Architecte Réseau (Confirmé) | Retail | Mise en place VPN, segmentation et interconnexions sécurisées. Stack: Wireshark, Juniper, SD-WAN.
+- 2024–2025 | Architecte Réseau (Confirmé) | Retail | Déploiement SD-WAN/WLAN et amélioration de la qualité de service. Stack: SD-WAN, WLAN.
+
+Diplômes
+- 2017 | Diplôme d’ingénieur (Informatique).
+- 2018 | BUT Réseaux & Télécom.
+
+Compétences techniques
+- Juniper
+- VPN (IPSec)
+- Cisco

@@ -1,0 +1,17 @@
+CV-048 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur DevOps Infrastructure (Junior)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2021–2024 | Ingénieur DevOps Infrastructure (Junior) | Retail | Exploitation et optimisation d’une plateforme virtualisée (cluster, HA, capacity). Stack: Kubernetes, Hyper-V, Storage (NetApp).
+- 2023–2026 | Ingénieur DevOps Infrastructure (Junior) | Retail | Industrialisation du provisioning (IaC) et standardisation des configurations. Stack: Storage (NetApp), Windows Server, AWS.
+
+Diplômes
+- 2016 | Master Cybersécurité.
+- 2017 | Licence Informatique (Systèmes & Réseaux).
+
+Compétences techniques
+- GitLab CI/CD
+- Backup (Veeam)
+- VMware vSphere
+- Hyper-V

@@ -1,0 +1,16 @@
+CV-040 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur Réseaux & Télécom (Junior)
+Résumé: Conception et exploitation LAN/WAN/WLAN, optimisation et automatisation réseau.
+
+Expériences professionnelles
+- 2024–2025 | Ingénieur Réseaux & Télécom (Junior) | Santé | Automatisation et inventaire (NetBox, templates) pour opérations réseau. Stack: Wireshark, QoS.
+- 2023–2025 | Ingénieur Réseaux & Télécom (Junior) | Santé | Conception/évolution d’architecture réseau (LAN/WAN) et documentation. Stack: QoS, WLAN.
+
+Diplômes
+- 2016 | Master Cybersécurité.
+- 2017 | Master Data Science / IA.
+
+Compétences techniques
+- SD-WAN
+- QoS
+- Cisco

@@ -1,0 +1,16 @@
+CV-003 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur NLP (Junior)
+Résumé: Conception, industrialisation et monitoring de modèles de ML en production.
+
+Expériences professionnelles
+- 2023–2024 | Ingénieur NLP (Junior) | Santé | Construction de pipelines data/feature et automatisation MLOps. Stack: Kubernetes, PyTorch, scikit-learn.
+
+Diplômes
+- 2019 | Licence Informatique (Systèmes & Réseaux).
+- 2020 | Master Cybersécurité.
+
+Compétences techniques
+- Hugging Face
+- TensorFlow
+- Pandas/NumPy
+- OpenCV

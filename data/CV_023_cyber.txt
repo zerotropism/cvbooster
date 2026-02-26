@@ -1,0 +1,15 @@
+CV-023 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur Sécurité Réseau (Senior)
+Résumé: Sécurisation, audit et détection/réponse aux incidents sur environnements hybrides.
+
+Expériences professionnelles
+- 2024–2025 | Ingénieur Sécurité Réseau (Senior) | Banque/Assurance | Réalisation d’audits de sécurité et remédiations (hardening, IAM). Stack: SIEM (Splunk/Elastic), SAST/DAST, PKI/TLS.
+
+Diplômes
+- 2017 | Master Data Science / IA.
+
+Compétences techniques
+- ISO 27001
+- SAST/DAST
+- Kubernetes Security
+- Firewall (Palo Alto/Fortinet)

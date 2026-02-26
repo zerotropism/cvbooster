@@ -1,0 +1,15 @@
+CV-038 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur Middleware (Confirmé)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2022–2025 | Ingénieur Middleware (Confirmé) | Industrie | Mise en place de supervision & alerting (SLO, dashboards, astreinte). Stack: Linux (RHEL/Debian), VMware vSphere, Hyper-V.
+
+Diplômes
+- 2021 | Licence Mathématiques appliquées.
+
+Compétences techniques
+- Windows Server
+- Docker
+- Terraform
+- Azure

@@ -1,0 +1,14 @@
+CV-041 (ANONYMISÉ / SYNTHÉTIQUE)
+Poste cible: Ingénieur DevOps Infrastructure (Confirmé)
+Résumé: Exploitation, automatisation et fiabilisation de plateformes systèmes/cloud.
+
+Expériences professionnelles
+- 2021–2024 | Ingénieur DevOps Infrastructure (Confirmé) | Transport | Gestion sauvegarde/restauration et plans PRA/PCA sur périmètre critique. Stack: Docker, AWS.
+
+Diplômes
+- 2019 | Diplôme d’ingénieur (Informatique).
+
+Compétences techniques
+- Terraform
+- Hyper-V
+- Python
