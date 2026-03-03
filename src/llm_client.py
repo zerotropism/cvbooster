@@ -1,5 +1,6 @@
 import ollama
 from typing import Dict, List, Any
+from config import MODEL, PROMPT_RANK, PROMPT_REWRITE
 
 
 def rank_cvs(
@@ -18,21 +19,12 @@ def rank_cvs(
     results = []
 
     for cv_name, cv_content in cvs_dict.items():
-        prompt = f"""Analyze how well this CV matches the job description.
-Rate the match from 0 to 1 (0=no match, 1=perfect match) and explain why.
-
-Job Description:
-{job_description}
-
-CV:
-{cv_content}
-
-Respond in this exact format:
-Score: [your score between 0 and 1]
-Explanation: [your explanation in 2-3 sentences]"""
+        prompt = PROMPT_RANK.format(
+            job_description=job_description, cv_content=cv_content
+        )
 
         response = ollama.chat(
-            model="llama3.2", messages=[{"role": "user", "content": prompt}]
+            model=MODEL, messages=[{"role": "user", "content": prompt}]
         )
 
         content = response["message"]["content"]
@@ -72,19 +64,10 @@ def rewrite_cv(job_description: str, cv_content: str) -> str:
     Returns:
         Rewritten CV in Markdown format
     """
-    prompt = f"""Rewrite this CV to better match the job description while keeping all information truthful.
-Optimize the wording, highlight relevant skills and experiences, and format the output in Markdown.
-
-Job Description:
-{job_description}
-
-Original CV:
-{cv_content}
-
-Please provide the rewritten CV in Markdown format."""
-
-    response = ollama.chat(
-        model="llama3.2", messages=[{"role": "user", "content": prompt}]
+    prompt = PROMPT_REWRITE.format(
+        job_description=job_description, cv_content=cv_content
     )
+
+    response = ollama.chat(model=MODEL, messages=[{"role": "user", "content": prompt}])
 
     return response["message"]["content"]

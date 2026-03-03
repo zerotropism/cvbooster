@@ -1,6 +1,7 @@
 import streamlit as st
 from io import BytesIO
 from markdown import markdown
+from docx import Document
 
 from cv_loader import load_resumes
 from llm_client import rank_cvs, rewrite_cv
@@ -27,13 +28,50 @@ def welcome_screen():
         st.rerun()
 
 
+def extract_text_from_docx(file) -> str:
+    """Extrait le texte d'un fichier Word."""
+    doc = Document(file)
+    full_text = []
+    for paragraph in doc.paragraphs:
+        full_text.append(paragraph.text)
+    return "\n".join(full_text)
+
+
 def jd_input_screen():
     st.title("📋 Description du poste")
-    jd = st.text_area(
-        "Collez la description du poste",
-        value=st.session_state.job_description,
-        height=300,
-    )
+
+    # Créer des onglets pour les deux options d'entrée
+    tab1, tab2 = st.tabs(["📝 Coller le texte", "📄 Uploader un fichier Word"])
+
+    jd = st.session_state.job_description
+
+    with tab1:
+        jd_text = st.text_area(
+            "Collez la description du poste",
+            value=st.session_state.job_description,
+            height=300,
+            key="jd_text_input",
+        )
+        if jd_text:
+            jd = jd_text
+
+    with tab2:
+        uploaded_file = st.file_uploader(
+            "Uploadez un fichier Word (.docx)",
+            type=["docx"],
+            help="Sélectionnez un fichier Word contenant la description du poste",
+        )
+
+        if uploaded_file is not None:
+            try:
+                jd = extract_text_from_docx(uploaded_file)
+                st.success(f"✅ Fichier '{uploaded_file.name}' chargé avec succès!")
+                # Afficher un aperçu du contenu
+                with st.expander("👁️ Aperçu du contenu"):
+                    st.text_area("Contenu extrait", value=jd, height=200, disabled=True)
+            except Exception as e:
+                st.error(f"❌ Erreur lors de la lecture du fichier: {str(e)}")
+
     col1, col2 = st.columns(2)
     with col1:
         if st.button("← Retour"):
@@ -41,7 +79,7 @@ def jd_input_screen():
             st.rerun()
     with col2:
         if st.button("Analyser →"):
-            if jd.strip():
+            if jd and jd.strip():
                 st.session_state.job_description = jd
                 try:
                     resumes = load_resumes()
@@ -52,7 +90,7 @@ def jd_input_screen():
                             st.session_state.job_description, resumes
                         )
                     st.session_state.rankings = [
-                        f"{resume['name']} - {resume['score']*100:.0f}% - {resume['explanation']}"
+                        f"{resume['name']} - {resume['score']} - {resume['explanation']}"
                         for resume in top_resumes
                     ]
                     st.session_state.step = "RANKING_DISPLAY"
@@ -122,7 +160,6 @@ def result_screen():
     with col2:
         # Téléchargement Word
         from exporters import to_word
-        from io import BytesIO
 
         doc = to_word(st.session_state.result)
         buffer = BytesIO()
